@@ -1,2 +1,16 @@
-# day-5-notes-app
-A professional Notes application built using HTML, CSS, and JavaScript that allows users to create, edit, and delete notes with data persistence using local storage and a modern responsive UI.
+# 📝 Notes App
+
+A professional Notes application built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+
+- Add, edit, and delete notes
+- Data stored in Local Storage
+- Modern UI with grid layout
+- Responsive design
+
+## 🛠️ Tech Used
+
+- HTML
+- CSS
+- JavaScript
